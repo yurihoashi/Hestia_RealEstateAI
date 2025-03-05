@@ -3,7 +3,8 @@ An iOS app that leverages the DeepSeek API to predict house property prices for 
 Will require xcode to run a simulation of this app.
 
 Basic functionality of this app:
-**Predicting Section**
+
+# Predicting Section
 - Type of property: House, Apartment, Unit House
 - Number of rooms:
 - Number of bathrooms:
@@ -18,6 +19,6 @@ https://github.com/michalsn/australian-suburbs/tree/master
 
 
 
-**Chat Section**
+# Chat Section
 - The AI-powered chat simulates an Australian real estate agent, responding only to questions related to Australian real estate.
 - Irrelevant questions are dismissed using keywords to ensure relevant responses.

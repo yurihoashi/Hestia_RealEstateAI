@@ -13,6 +13,8 @@ Basic functionality of this app:
 
 Using data from below, we found the following:
 https://github.com/michalsn/australian-suburbs/tree/master
+and using deepseek API
+https://platform.deepseek.com/
 - Determines the median income for each state and suburb.
 - Estimates the annual salary required to buy/rent a property in the given suburb.
 - Predicts the property price using the DeepSeek API, based on the user’s input.

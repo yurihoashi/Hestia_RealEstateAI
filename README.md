@@ -10,6 +10,7 @@ Basic functionality of this app.
 - Number of bathrooms:
 - State:
 - Suburb:
+
 Using data from below, we found the following:
 https://github.com/michalsn/australian-suburbs/tree/master
 	•	Determines the median income for each state and suburb.

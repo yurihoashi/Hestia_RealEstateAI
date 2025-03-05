@@ -51,7 +51,7 @@ class DeepSeekService {
                         // Split each line by the pipe symbol to extract the values
                         let components = line.split(separator: "|")
                         if components.count == 6 {
-                            parsedResponse.append("\n**Year**: \(components[0])\n- Buy Income: \(components[1])/year\n- Rental Income: \(components[2])/year\n- Price Range: \(components[3])~\(components[4])\n- Percentage Change: \(components[5])")
+                            parsedResponse.append("\n**Year**: \(components[0])\n- To Buy: \(components[1])/year\n- To Rent: \(components[2])/year\n- Price Range: \(components[3])~\(components[4])")
                         } else {
                             print("Unexpected data format: \(line)")
                         }

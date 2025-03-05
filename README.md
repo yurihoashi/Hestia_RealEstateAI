@@ -13,12 +13,12 @@ Basic functionality of this app.
 
 Using data from below, we found the following:
 https://github.com/michalsn/australian-suburbs/tree/master
-• Determines the median income for each state and suburb.
-• Estimates the annual salary required to buy/rent a property in the given suburb.
-• Predicts the property price using the DeepSeek API, based on the user’s input.
+- Determines the median income for each state and suburb.
+- Estimates the annual salary required to buy/rent a property in the given suburb.
+- Predicts the property price using the DeepSeek API, based on the user’s input.
 
 
 
 # Chat Section 
-• The AI-powered chat simulates an Australian real estate agent, responding only to questions related to Australian real estate.
-• Irrelevant questions are dismissed using keywords to ensure relevant responses.
+- The AI-powered chat simulates an Australian real estate agent, responding only to questions related to Australian real estate.
+- Irrelevant questions are dismissed using keywords to ensure relevant responses.

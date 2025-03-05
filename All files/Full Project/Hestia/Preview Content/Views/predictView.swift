@@ -76,6 +76,7 @@ struct predictView: View {
                             Text("Prediction Completed")
                                 .bold()
                                 .font(.title2)
+                                .padding(.top, 30)
                                 .foregroundColor(Color("myOrange"))
                             formattedText(deepSeekResponse) // Display the response here
                                 .font(.body)
